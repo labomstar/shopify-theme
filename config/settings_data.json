@@ -4020,9 +4020,9 @@
       "product-main-section": {
         "type": "product-main-section",
         "settings": {
-          "product_vendor_enable": false,
+          "product_vendor_enable": true,
           "video_url": "",
-          "product_quantity_enable": false,
+          "product_quantity_enable": true,
           "product_image_zoom_type": "lightbox",
           "product_thumbnails_position": "right",
           "show_extra_tab": false,
