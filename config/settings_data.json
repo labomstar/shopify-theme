@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "enable_wide_layout": false,
+    "enable_wide_layout": true,
     "color_topbar_bg": "#cbd5cc",
     "color_body_bg": "#ffffff",
     "color_footer_bg": "rgba(0,0,0,0)",
@@ -48,9 +48,9 @@
     "social_vimeo_link": "",
     "social_fancy_link": "",
     "social_rss_link": "https://www.linkedin.com/company/stuhrling-original-llc",
-    "share_facebook": true,
-    "share_twitter": true,
-    "share_pinterest": true,
+    "share_facebook": false,
+    "share_twitter": false,
+    "share_pinterest": false,
     "social_sharing_style": "normal",
     "checkout_header_image": "",
     "checkout_logo_image": "shopify://shop_images/logo.png",
